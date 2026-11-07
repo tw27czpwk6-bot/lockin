@@ -1,21 +1,21 @@
-# Lock In — поддержка
+# Lockbud — поддержка
 
-Lock In помогает ставить соцсети на паузу и растить своё растение.
+Lockbud помогает ставить соцсети на паузу и растить своё растение.
 
 **Вопросы, ошибки, предложения:** soatalievamir@gmail.com — отвечаем в течение пары дней.
 
 - [Политика конфиденциальности](privacy)
-- Подписка Lock In Plus: управлять и отменить — Настройки iPhone → Apple ID → Подписки.
+- Подписка Lockbud Plus: управлять и отменить — Настройки iPhone → Apple ID → Подписки.
 - Удалить аккаунт: в приложении Настройки → Аккаунт → Удалить аккаунт.
 
 ---
 
-# Lock In — Support
+# Lockbud — Support
 
-Lock In helps you pause social apps and grow your plant.
+Lockbud helps you pause social apps and grow your plant.
 
 **Questions, bugs, ideas:** soatalievamir@gmail.com — we reply within a couple of days.
 
 - [Privacy Policy](privacy)
-- Manage or cancel Lock In Plus: iPhone Settings → Apple Account → Subscriptions.
+- Manage or cancel Lockbud Plus: iPhone Settings → Apple Account → Subscriptions.
 - Delete your account: in the app, Settings → Account → Delete account.
